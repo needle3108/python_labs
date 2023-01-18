@@ -1,0 +1,28 @@
+Dodawanie elementu
+forStatement         => 469782042
+listComprehension    => 262104491
+mapFunction          => 318562
+generatorExpression  => 401864
+
+Dodawanie elemntu podniesionego do kwadratu
+forStatement         => 2679939041
+listComprehension    => 2381903241
+mapFunction          => 323661
+generatorExpression  => 416117
+
+Sumowanie elementow z wykorzystaniem petli for
+forStatement         => 804670499
+listComprehension    => 592992591
+mapFunction          => 845821471
+generatorExpression  => 690290931
+
+Sumowanie z wykorzystaniem funkcji sum
+forStatement         => 515008557
+listComprehension    => 305896925
+mapFunction          => 569999523
+generatorExpression  => 408718223
+
+Konwersja obiektu map i generatora do listy
+mapFunction          => 553137230
+generatorExpression  => 398406685
+
